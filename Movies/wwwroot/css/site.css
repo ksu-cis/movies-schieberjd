@@ -16,6 +16,11 @@ form {
     flex-direction: column;
 }
 
+.review-scores {
+    display: flex;
+    flex-direction: column;
+}
+
 .movie-entry {
     margin: 5px;
     padding-bottom: 10px;
